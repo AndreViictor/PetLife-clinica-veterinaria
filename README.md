@@ -1,2 +1,2 @@
 # PetLife-clinica-veterinaria
- codigo de uma empresa ficticia 
+ Repositório criado para guardar codigos de futuros projetos.
